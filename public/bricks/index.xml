@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bricks on </title>
+    <link>http://localhost:1313/bricks/</link>
+    <description>Recent content in Bricks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/bricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cta</title>
+      <link>http://localhost:1313/bricks/cta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bricks/cta/</guid>
+      <description>We are available on 077 26 76 4321 Weekdays 7:30-20:00 Saturdays 7:30-18:00, Sundays 11:00-1700 Landline 01202 896289 Alternate number 07793 251677 Or Send us an Email</description>
+    </item>
+    <item>
+      <title>features</title>
+      <link>http://localhost:1313/bricks/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bricks/features/</guid>
+      <description>Our Services Residential &amp;amp; Commercial Available for residential &amp;amp; commercial properties throughout Dorset - including Bournemouth, Poole &amp;amp; environs.&#xA;Quotation We work to the customer’s specifications. Just explain what you want done and how you want it done, and we will implement it. Our quotations are not (eye-wateringly) exorbitant. We give competitive, reasonable quotations&#xA;Waste We are registered with the environmental agency (as legally required); our Waste Carrier Registration is: CBDU508787.</description>
+    </item>
+    <item>
+      <title>intro</title>
+      <link>http://localhost:1313/bricks/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bricks/intro/</guid>
+      <description>The Ultimate Theme You Need To Start Your Hugo Website Hugobricks is a free website theme built with Hugo and vanilla CSS, providing everything you need to jumpstart your Hugo website and save valuable time.&#xA;Get started for free</description>
+    </item>
+    <item>
+      <title>map</title>
+      <link>http://localhost:1313/bricks/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bricks/map/</guid>
+      <description>Contact us 92 Church Rd Ferndown Dorset BH22 9EX</description>
+    </item>
+    <item>
+      <title>Reviews</title>
+      <link>http://localhost:1313/bricks/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bricks/reviews/</guid>
+      <description>What our customers say about us </description>
+    </item>
+  </channel>
+</rss>

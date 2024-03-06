@@ -1,0 +1,26 @@
+logo_image: /uploads/branding/gavel.png
+dark_footer: true
+menuitems:
+  - title: Home
+    link:  /
+  - title: Privacy Policy
+    link:  /privacy-policy/
+  - title: Terms And Conditions
+    link:  /terms-and-conditions/
+  - title: Credits
+    link:  /credits/
+  - title: Where We Cover
+    link:  /bournemouth-house-clearance/
+  - title: Opening Hours
+    link:  /openinghours/
+  - title: Contact Us
+    link:  /contact/
+
+socials:
+  - title: Facebook
+    link: https://m.facebook.com/bazclearance/
+    logo_image: /img/facebook.svg
+  - title: Shiply
+    link: https://www.shiply.com/transport-provider/bazthevan
+    logo_image: /img/world.svg
+footer_text: Site by Precog Marketing - marcus@nixs.info

@@ -1,0 +1,21 @@
+mon:
+  start: 7.30 am
+  end: 8.00 pm
+tue:
+  start: 7.30 am
+  end: 8.00 pm
+wed:
+  start: 7.30 am
+  end: 8.00 pm
+thu:
+  start: 7.30 am
+  end: 8.00 pm
+fri:
+  start: 7.30 am
+  end: 8.00 pm
+sat:
+  start: 7.30 am
+  end: 6.00 pm
+sun:
+  start: 11.00 am
+  end: 5.00 pm

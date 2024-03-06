@@ -1,0 +1,10 @@
+favicon_image: /uploads/branding/brick_icon2_bw.svg
+sticky_header: true
+customcursor: true
+intersectionobserver: true
+filter_has_numbers: true
+page_size: 3
+preheader: 
+  active: true
+  is_light: true
+  text: Available seven days a week
