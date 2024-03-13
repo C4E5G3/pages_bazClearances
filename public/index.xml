@@ -157,13 +157,6 @@
     </item>
     <item>
       <title>Page not found (404)</title>
-      <link>http://localhost:1313/404.html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/404.html/</guid>
-      <description>This URL does not exist Back to home</description>
-    </item>
-    <item>
-      <title>Page not found (404)</title>
       <link>http://localhost:1313/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/404/</guid>
