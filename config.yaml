@@ -14,3 +14,8 @@ languages:
     contentDir: content/en
     weight: 1
     disabled: false
+
+sitemap:
+    changeFreq: daily
+    filename: sitemap.xml
+    priority: 0
