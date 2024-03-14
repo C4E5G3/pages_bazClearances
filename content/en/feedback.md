@@ -31,6 +31,9 @@ Feel free to go to this Google Link and leave us a review
 {{< brick_cta >}}
 ### For any questions or a quote, we are available on:
 ## 077 26 76 4321
+
+**On the mobile? Just click the small icon** {{< contactbutton >}}
+
 ![a graphic of a mobile phone with a communication bubble](/uploads/illustrations/cuate/phone1.svg)     
 
 {{< /brick_cta >}}

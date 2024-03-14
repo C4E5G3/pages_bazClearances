@@ -23,7 +23,7 @@ and indeed, often do!
 
 
  
-{{< button "Get in touch" "/contact/" >}}
+{{< button "Get in touch" "/get-in-touch/" >}}
 
 ![a graphic of workmen carring boxes from a van](/uploads/illustrations/cuate/van.jpg)
 
@@ -77,6 +77,8 @@ We have:
 ##  You can call us today for a quote on:  
 
 ## 077 26 76 4321 
+**On the mobile? Just click the small icon** {{< contactbutton>}}  
+
 ![a graphic of a mobile phone with a communication bubble](/uploads/illustrations/cuate/phone2.svg)    
 {{< /brick_cta >}} 
 

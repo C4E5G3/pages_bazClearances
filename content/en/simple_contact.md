@@ -1,22 +1,23 @@
 ---
-title: Contact us
+title: "Contact"
+date: 2024-03-05T22:48:25+01:00
+draft: false
 ---
+
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
 # Contact us
 
-Give us a call - we can come round and give you a no-commitment quotation
+### We can come round at short notice and give you a no-commitment quotation
 
 {{< /brick_title >}}
 {{< brick_contact >}}
 
-### Got a question?
-
 ## +44 7726 764321
 
-info@dorsethouseclearance.uk 
+info@bazclearance.co.uk 
 
 92 Church Rd,
 Ferndown, 

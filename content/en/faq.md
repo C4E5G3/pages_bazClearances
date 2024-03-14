@@ -23,7 +23,10 @@ If your query is not covered, then don't hesitate to get in touch
 ### STILL NOT ANSWERED YOUR QUESTION?
 #### THEN PLEASE CALL:
 
-### 077 26 76 4321
+## 077 26 76 4321
+
+**On the mobile? Just click the small icon** {{< contactbutton >}}
+
 
 ![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 

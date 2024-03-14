@@ -12,11 +12,6 @@ draft: false
 
 ### We can come round at short notice and give you a no-commitment quotation
 
-On the mobile?
-Just click the phone icon 
-{{< contactbutton >}}
-
-
 {{< /brick_title >}}
 {{< brick_contact >}}
 
@@ -28,7 +23,9 @@ info@bazclearance.co.uk
 Ferndown, 
 BH22 9EX
 
-
+- Weekdays 7:30-20:00 Saturdays 7:30-18:00, Sundays 11:00-1700
+- Landline 01202 896289                                         
+- Alternate number 07793 251677
 {{< socialbuttons >}}
 
 {{< /brick_contact >}}

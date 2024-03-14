@@ -40,10 +40,13 @@ Catch up with us on social media if you like - We have a Facebook page, My Shipl
 {{< /brick_wide >}} 
 {{< brick_cta >}}
 
-  ## Ring us on  077 26 76 4321  
-  ### if you'd like a no obligation quote on our house clearance                                                                                                                                          
-  ### Or
-{{< button2 "Send us an Email" "/email/" >}}
+  ### For a no obligation quote on your house clearance ring us on  
+  ## 077 26 76 4321  
+**On the mobile? Just click the small icon**
+{{< contactbutton >}}
+
+Alternatively:
+{{< button2 "Send us an email" "/email/" >}}
 
 ![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 

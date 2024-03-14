@@ -9,8 +9,8 @@ title: Terms And Conditions
 ## Terms & Conditions 
 By booking a clearance and using our services, you agree to these terms and conditions, which govern your use of our website and our services.
 
-Definitions “You”, “User” or "the customer" refers to any individual or entity that uses our website or our services. “We,” “Us,”, “Our” or "the supplier" refers to Dorset House Clearance. 
-“Services” refers to the removal services that we provide. 
+Definitions “You”, “User” or "the customer" refers to any individual or entity that uses our website or our services. “We,” “Us,”, “Our” or "the supplier" refers to 
+Baz's Clearances. “Services” refers to the removal services that we provide. 
 
 ### Use of Services 
 
@@ -41,16 +41,16 @@ which may be suffered by the customer relating directly or indirectly to the ser
 
 #### License
 
-Unless otherwise stated, Dorset House Clearance own the intellectual property rights for all material on dorsethouseclearance.uk.
-All intellectual property rights are reserved. You may access dorsethouseclearance.uk for your own personal use subjected to restrictions set in these 
+Unless otherwise stated, Baz's Clearances own the intellectual property rights for all material on bazclearance.co.uk.
+All intellectual property rights are reserved. You may access bazclearance.uk for your own personal use subjected to restrictions set in these 
 terms and conditions.
 
 You must not:
 
-- Republish material from dorsethouseclearance.uk
-- Sell, rent or sub-license material from dorsethouseclearance.uk
-- Reproduce, duplicate or copy material from dorsethouseclearance.uk
-- Redistribute content from dorsethouseclearance.uk
+- Republish material from bazclearance.co.uk
+- Sell, rent or sub-license material from bazclearance.co.uk
+- Reproduce, duplicate or copy material from bazclearance.co.uk
+- Redistribute content from bazclearance.co.uk
 
 These terms and conditions come into effect at the time of writing, 04 March 2024, and are considered extant unless modified.
 If you have any questions relating to these terms and conditions, please do not hesitate to contact us.
