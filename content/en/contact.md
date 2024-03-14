@@ -19,7 +19,7 @@ Give us a call - we can come round and give you a no-commitment quotation
 
 ## +44 7726 764321
 
-info@dorsethouseclearance.uk 
+info@bazclearance.co.uk 
 
 92 Church Rd,
 Ferndown, 

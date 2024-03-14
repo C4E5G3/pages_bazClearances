@@ -12,9 +12,9 @@ menuitems:
     link: /feedback/
   - title: Contact Us
     link: /contact/
-  - title: Blog
-    link: /blog/
+  - title: Tips
+    link: /tips/
 cta:
   active: true
-  title: Get in touch
-  link: /get-in-touch/
+  title: Call Us Now
+  link: /get-started1/

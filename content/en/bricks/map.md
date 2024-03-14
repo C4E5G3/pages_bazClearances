@@ -2,7 +2,7 @@
 title: map
 ---
 
-![map of Ferndown, Dorset](/uploads/map.png)
+![map of Ferndown, Dorset](/uploads/map8.png)
 
 
 ## Contact us

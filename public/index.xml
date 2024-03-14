@@ -6,8 +6,29 @@
     <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2024 17:19:42 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 16:02:21 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Started1</title>
+      <link>http://localhost:1313/get-started1/</link>
+      <pubDate>Thu, 14 Mar 2024 16:02:21 +0100</pubDate>
+      <guid>http://localhost:1313/get-started1/</guid>
+      <description>Email or ring</description>
+    </item>
+    <item>
+      <title>Phone</title>
+      <link>http://localhost:1313/phone/</link>
+      <pubDate>Thu, 14 Mar 2024 15:44:07 +0100</pubDate>
+      <guid>http://localhost:1313/phone/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/tips/</link>
+      <pubDate>Thu, 14 Mar 2024 15:26:25 +0100</pubDate>
+      <guid>http://localhost:1313/tips/</guid>
+      <description>Is it a blog? Is it a news feed? No&amp;hellip;c&amp;rsquo;mon, we&amp;rsquo;re a house clearance and waste removal business, so this is our &amp;ldquo;Tips&amp;rdquo; section. Tips from top to bottom, and everything in between</description>
+    </item>
     <item>
       <title>Email</title>
       <link>http://localhost:1313/email/</link>
@@ -20,7 +41,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Tue, 05 Mar 2024 22:48:25 +0100</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>HomeContact Contact us Give us a call - we can come round and give you a no-commitment quotation&#xA;If you prefer, get in touch by email Your Email: Your Query: Send Got a question? +44 7726 764321 info@dorsethouseclearance.uk 92 Church Rd, Ferndown, BH22 9EX&#xA;Contact us 92 Church Rd Ferndown Dorset BH22 9EX</description>
+      <description>HomeContact Contact us Give us a call - we can come round and give you a no-commitment quotation&#xA;If you prefer, get in touch by email Your Email: Your Query: Send Got a question? +44 7726 764321 info@bazclearance.co.uk 92 Church Rd, Ferndown, BH22 9EX&#xA;Contact us 92 Church Rd Ferndown Dorset BH22 9EX</description>
     </item>
     <item>
       <title>Credits</title>

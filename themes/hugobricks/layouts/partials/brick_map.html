@@ -1,4 +1,3 @@
-
 {{- $inner := . -}}
 {{- if or (eq $inner "") (eq $inner nil) -}}
     {{- $inner = "Empty brick found. Consider creating a 'content/bricks/map.md' file." -}}
@@ -16,7 +15,7 @@
 {{- $href := index (split $link `"`) 1 -}}
 <section class="map hasbackgroundcolor stickstofooter">
     <div class="map" style="background-image: url({{ $imagesrc }});">
-        <div class="overlay" onclick="window.open('{{ $href }}');" style="cursor: pointer;"></div>
+       <div class="overlay" onclick="window.open('{{ $href }}');" style="cursor: pointer;"></div>
         <div class="container">
             <div>{{- markdownify $inner -}}</div>
         </div>
