@@ -10,12 +10,15 @@ draft: false
 
 # Contact us
 
-Give us a call - we can come round and give you a no-commitment quotation
+### We can come round at short notice and give you a no-commitment quotation
+
+On the mobile?
+Just click the phone icon 
+{{< contactbutton >}}
+
 
 {{< /brick_title >}}
 {{< brick_contact >}}
-
-### Got a question?
 
 ## +44 7726 764321
 
