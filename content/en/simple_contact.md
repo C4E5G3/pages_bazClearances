@@ -10,18 +10,13 @@ draft: false
 
 # Contact us
 
-### We can come round at short notice and give you a no-commitment quotation
-
+### Get in touch for a quote and advice on any house clearance 
 {{< /brick_title >}}
 {{< brick_contact >}}
 
 ## +44 7726 764321
 
 info@bazclearance.co.uk 
-
-92 Church Rd,
-Ferndown, 
-BH22 9EX
 
 
 {{< socialbuttons >}}
