@@ -11,6 +11,7 @@ title: Home
                                                                                                                                                                                     
 {{< /brick_title >}} 
 
+{{< brick_intro >}}
 # Your Trusted Local Team
 If you are looking for a reliable property clearance service in and around Bournemouth, here at Baz's Clearances we merit your consideration. We are available on 
 **077 26 76 4321** all reasonable hours. We are a small local team who are reliable, trustworthy and efficient. 
