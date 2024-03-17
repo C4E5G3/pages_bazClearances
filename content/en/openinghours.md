@@ -25,5 +25,5 @@ draft: false
 ###    start: 11.00 am                                                                                                                                                              
 ###    end: 5.00 pm    
 
-![a graphic of a man on the phone](/uploads/illustrations/cuate/phone-man1.png)  
+![a graphic of a man on the phone](/uploads/illustrations/cuate/phone_man.png)  
 {{< /brick_cta >}}

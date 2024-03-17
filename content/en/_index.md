@@ -79,7 +79,7 @@ We have:
 ## 077 26 76 4321 
 **On the mobile? Just click the small icon** {{< contactbutton>}}  
 
-![a graphic of a mobile phone with a communication bubble](/uploads/illustrations/cuate/phone2.svg)    
+![a graphic of a mobile phone with a communication bubble](/uploads/illustrations/cuate/phone_man.png)    
 {{< /brick_cta >}} 
 
 {{< brick_features >}}{{< /brick_features >}}    

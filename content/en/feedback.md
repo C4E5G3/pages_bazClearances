@@ -34,6 +34,6 @@ Feel free to go to this Google Link and leave us a review
 
 **On the mobile? Just click the small icon** {{< contactbutton >}}
 
-![a graphic of a mobile phone with a communication bubble](/uploads/illustrations/cuate/phone1.svg)     
+![a graphic of a mobile phone with a communication bubble](/uploads/illustrations/cuate/phone_man.png)     
 
 {{< /brick_cta >}}

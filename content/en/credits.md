@@ -8,16 +8,18 @@ draft: false
 
 ## A List of Credits for Artwork on the site
 
+### From the Noun Project (CC BY 3.0) 
 
-- “White Van” icon by Icon 54, from Noun Project (CC BY 3.0) 
-- "Man Talking on Phone" by Akshar Pathak, from Noun Project (CC BY 3.0)
-- "Gavel" by SBTS, from Noun Project (CC BY 3.0)
-- "Vacuum" by Wendy, from Noun Project (CC BY 3.0)
-- "House" by Tsundere, from Noun Project (CC BY 3.0)
-- "Skip" by Ben Avery, from Noun Project (CC BY 3.0)
-- "Quotation" by Mello, from Noun Project (CC BY 3.0)
-- "Hand key" by Alice Design, from Noun Project (CC BY 3.0)
-- "Recycling" by Jajang Nurrahman, from Noun Project (CC BY 3.0)
-
+- “White Van” icon by Icon 54 
+- "Man Talking on Phone" by Akshar Pathak 
+- "Gavel" by SBTS 
+- "Vacuum" by Wendy 
+- "House" by Tsundere 
+- "Skip" by Ben Avery 
+- "Quotation" by Mello 
+- "Hand key" by Alice Design 
+- "Recycling" by Jajang Nurrahman 
+- "Phone" by Imam Kurniadi 
+- "Use telephone" by Gan Khoon Lay
 
 {{< /brick_wide >}}   

@@ -27,7 +27,7 @@ Eastleigh, Havant - and we also can work as far as Yeovil & Salisbury.
 
 ## We are available on 077 26 76 4321
 
-![generic phone symbol](/uploads/illustrations/cuate/phone_enabled.svg)
+![generic phone symbol](/uploads/illustrations/cuate/phone_man.png)
 
 
 {{< /brick_cta >}}

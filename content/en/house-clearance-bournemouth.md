@@ -48,7 +48,7 @@ dissatisfaction is often for reasons totally out of my control.
  {{< brick_image >}}   
 
  
-![a graphic of a church and spire](/uploads/illustrations/cuate/church.jpg) 
+![a graphic of a church and spire](/uploads/illustrations/cuate/bowls.jpg) 
 ### In The Community
 
 This business is extremely important to myself and Marcus. Having lived many years in London, we enjoy being part of a less impersonal and more friendly society. Dorset is 
@@ -61,7 +61,7 @@ for two sofas at that time.
   {{< brick_image2 >}}      
 ### How We Work - Part 1
 
-![a graphic of two hands in a handshake](/uploads/illustrations/cuate/shake.jpg)    
+![a graphic of two hands in a handshake](/uploads/illustrations/cuate/handshake.jpg)    
 
 The first point of contact is a phone call or email - you just get in touch and we go from there. One of us will come round and assess the job. Unlike a lot of companies, 
 we factor into the quotation re-sellable goods. It's not always easy to get the full value for an item, but we certainly take into account things of value when 
