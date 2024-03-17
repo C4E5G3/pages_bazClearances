@@ -67,7 +67,7 @@ We have:
 - A duty to respect your property and your goods
 - A duty to behave in a professional manner whilst on your property
 - A commitment to provide a proper high-quality service that is fairly-priced
-- An implicit imperative to be worthy of a five star review
+- A commitment to be worthy of a five star review
 
  
 
@@ -87,10 +87,8 @@ We have:
 {{< brick_reviews >}}{{< /brick_reviews >}}
 {{< brick_intro >}}                                                                                                                                                            
                                                                                                                                                                                    
-## We Are A Fully Licensed Waste Carrier                                                                                                                                                          
-                                                                                                                                                                              
-{{< button "Check Our License" "https://environment.data.gov.uk/public-register/waste-carriers-brokers/registration/CBDU508787?__pageState=result-waste-carriers-brokers" >}}                                                                                                   
-                                                                                                                                                                               
-{{< /brick_intro >}}  
-
-{{< brick_cta >}}{{< /brick_cta >}}
+## We Are A Fully Licensed Waste Carrier                                                                                                                                                                                                                                                             
+{{< brick_image >}}<iframe style="border: 16px solid #dddddd; overflow: hidden" width="370" height="222" 
+src="https://environment.data.gov.uk/public-register/waste-carriers-brokers/widget/CBDU508787" 
+title="Widget for CBDU508787"></iframe>{{< /brick_image >}}
+{{< /brick_intro >}}{{< brick_cta >}}{{< /brick_cta >}}

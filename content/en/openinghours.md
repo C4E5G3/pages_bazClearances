@@ -14,14 +14,16 @@ draft: false
 
 ## Our Availability 
 
-####    start: 7.30 am                                                                                                                                                               
-####    end: 8.00 pm                                                                                                                                                                 
-###  sat:                                                                                                                                                                           
-####    start: 7.30 am                                                                                                                                                               
-####    end: 6.00 pm                                                                                                                                                                 
-###  sun:                                                                                                                                                                           
-####    start: 11.00 am                                                                                                                                                              
-####    end: 5.00 pm    
+## weekdays:
+ 
+###    start: 7.30 am                                                                                                                                                               
+###    end: 8.00 pm                                                                                                                                                                 
+##  sat:                                                                                                                                                                           
+###    start: 7.30 am                                                                                                                                                               
+###    end: 6.00 pm                                                                                                                                                                 
+##  sun:                                                                                                                                                                           
+###    start: 11.00 am                                                                                                                                                              
+###    end: 5.00 pm    
 
-![a graphic of a man on the phone](/uploads/illustrations/cuate/phone_man.svg)  
+![a graphic of a man on the phone](/uploads/illustrations/cuate/phone-man1.png)  
 {{< /brick_cta >}}
