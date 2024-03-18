@@ -12,8 +12,30 @@
     --textMedium: #000000;
     --borderMedium: rgba(38, 50, 56, 0.2); 
     --borderLight: rgba(38, 50, 56, 0.075);
-    --accent: #658091;
-    --textAccent: #93c4d0;
+    --accent: #5AAE61;
+    --textAccent: #2F2bb2;
+    --light: rgba(38, 50, 56, 0.035);
+}
+/*------------------------*/
+/* turn grayscale off
+/*------------------------*/
+
+@import "fonts.css";
+@import "base.css";
+@import "header-footer.css";
+@import "bricks.css";
+
+/*------------------------*/
+/* theme colors
+/*------------------------*/
+
+:root {
+    --textDark: rgba(38, 50, 56, 1);
+    --textMedium: rgba(38, 50, 56, 0.7);
+    --borderMedium: rgba(38, 50, 56, 0.2); 
+    --borderLight: rgba(38, 50, 56, 0.075);
+    --accent: #f4b500;
+    --textAccent: #e6ac00;
     --light: rgba(38, 50, 56, 0.035);
 }
 /*------------------------*/
@@ -44,6 +66,4 @@ img {filter: grayscale(0);}
 /* black_2_accent
 /*------------------------*/
 
-.black_2_accent {
-    filter: contrast(0.05) sepia(65%) hue-rotate(187deg) contrast(7) !important;
-}
+.black_2_accent {filter: contrast(0.11) sepia(1) hue-rotate(340deg) contrast(13)!important;}
