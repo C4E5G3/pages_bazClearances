@@ -8,7 +8,7 @@ draft: false
 
 ## A List of Credits for Artwork on the site
 
-### From the [Noun Project]("https://thenounproject.com") (CC BY 3.0) 
+### From the Noun Project (CC BY 3.0) 
 
 - “White Van” icon by Icon 54 
 - "Man Talking on Phone" by Akshar Pathak 
