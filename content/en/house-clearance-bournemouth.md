@@ -28,6 +28,9 @@ service we provide. But our reputation is not just anecdotal, you can read our r
  
 {{< /brick_wide >}}                                                                                                                                                             
  
+  {{< brick_intro >}}    
+{{< button "Get in touch" "/get-in-touch/" >}}
+  {{< /brick_intro >}}    
 
      
  {{< brick_image2 >}}   
@@ -72,9 +75,6 @@ back to us.
     
   {{< /brick_image2 >}}    
 
-{{< brick_cta >}}{{< /brick_cta >}}   
-
-
  {{< brick_image >}} 
 
 ### How We Work - Part 2
@@ -87,6 +87,9 @@ degrading your property. If working until 8 or 9PM is necessary in order to fini
 ![a graphic of an unliveried white removal van](/uploads/illustrations/cuate/van1.jpg)
  {{< /brick_image >}} 
 
+  {{< brick_intro >}}    
+{{< button "Get in touch" "/get-in-touch/" >}}
+  {{< /brick_intro >}}    
 
  {{< brick_image2 >}} 
 
