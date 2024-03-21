@@ -80,7 +80,7 @@ back to us.
 ### How We Work - Part 2
 
 If you liked the quote, then we will do the job as agreed. You can either be on the premises, or agree to meet us with the keys, normally at 8:00 AM, so that we can gain 
-entry and go to work. We use unmarked vans so as not to draw attention to the fact that there may be an uninhabited property. We work in a discrete and professional way,
+entry and go to work. We use unmarked vans so as not to draw attention to the fact that there may be an uninhabited property. We work in a discreet and professional way,
 and we mandate courtesy and good manners in any of our staff. In terms of the actual work, the key priorities are to effect it quickly and efficiently, and without 
 degrading your property. If working until 8 or 9PM is necessary in order to finish a job, we will do this, if you need speedy access for whatever reason. 
       
@@ -98,7 +98,7 @@ degrading your property. If working until 8 or 9PM is necessary in order to fini
  
 We are based in Bournemouth, but are available throughout Dorset & Hampshire - Poole, Christchurch, Ferndown, St Leonard's, Ringwood, Verwood, Wimbourne, Blandford Forum, 
 Shaftesbury, Sherborne, Dorchester, Weymouth, Swanage, Wareham, Southampton, Portsmouth, Lyndhurst, Lymington, New Milton, Winchester, Petersfield, Andover, Gosport, 
-Eastleigh, Havant - and we also can work as far as Yeovil & Salisbury.   
+Eastleigh, Havant - and we also can work as far afield as Yeovil & Salisbury.   
 
  {{< /brick_image2 >}}    
 
