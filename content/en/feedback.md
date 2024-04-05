@@ -30,7 +30,7 @@ Feel free to go to this Google Link and leave us a review
 {{< /brick_intro >}}
 {{< brick_cta >}}
 ### For any questions or a quote, we are available on:
-## 077 26 76 4321
+## 07793 251 677
 
 **On the mobile? Just click the small icon** {{< contactbutton >}}
 

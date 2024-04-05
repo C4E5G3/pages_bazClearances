@@ -14,7 +14,7 @@ draft: false
 {{< /brick_title >}}
 {{< brick_contact >}}
 
-## +44 7726 764321
+## +44 7793 251 677
 
 info@bazclearance.co.uk 
 
