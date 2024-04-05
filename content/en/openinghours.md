@@ -25,5 +25,7 @@ draft: false
 ###    start: 11.00 am                                                                                                                                                              
 ###    end: 5.00 pm    
 
+## telephone:
+## 07793 251 677
 ![a graphic of a man on the phone](/uploads/illustrations/cuate/phone_man.png)  
 {{< /brick_cta >}}
