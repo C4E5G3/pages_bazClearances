@@ -43,9 +43,7 @@ decided to bite the bullet and start a house clearance business in Bournemouth. 
 obligatory teething problems), but since the summer of 2023 we have started to get calls, and have now been up and running properly for about 6 months. We are based in
 Bournemouth, and we serve primarily the Bournemouth and Poole metropolis, all quarters of Dorset and Hampshire, as well as parts of Somerset and Wiltshire. Although 
 we are relatively new to the sector, I have also been working as a courier for over ten years, and I have provided a link to my Shiply profile, "BazTheVan", so that you 
-can get a clear idea of my business reputation and standards. (I am afraid that in this line of business miscommunications are rife owing to the platform I use, hence the 
-occasional duff notes). Nonetheless, I service roughly 4000 new clients annually, of whom statistically 3986 are extremely happy, and those times where there is 
-dissatisfaction is often for reasons totally out of my control. 
+can get a clear idea of my business reputation and standards. 
 
  {{< /brick_image2 >}}   
  {{< brick_image >}}   
