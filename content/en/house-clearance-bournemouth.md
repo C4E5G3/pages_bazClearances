@@ -42,7 +42,7 @@ or on occasion, perform a total house clearance. People that know me well know t
 decided to bite the bullet and start a house clearance business in Bournemouth. We did some preliminary marketing and set up a provisional website, (with of course the 
 obligatory teething problems), but since the summer of 2023 we have started to get calls, and have now been up and running properly for about 6 months. We are based in
 Bournemouth, and we serve primarily the Bournemouth and Poole metropolis, all quarters of Dorset and Hampshire, as well as parts of Somerset and Wiltshire. Although 
-we are relatively new to the sector, I have also been working as a courier for over ten years, and I have provided a link to my Shiply profile, "BazTheVan", so that you 
+we are relatively new to the sector, I have also been working as a courier for over ten years, and I have provided a link to my Shiply profile, ["BazTheVan"](https://www.shiply.com/transport-provider/bazthevan), so that you 
 can get a clear idea of my business reputation and standards. 
 
  {{< /brick_image2 >}}   
