@@ -4,7 +4,7 @@
     <title>Blog on </title>
     <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>

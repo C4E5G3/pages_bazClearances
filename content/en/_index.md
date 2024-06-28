@@ -5,7 +5,7 @@ title: Home
                                                                                                                                                                                      
   ![a generic house clearance featuring an assortment of brown cardboard packing boxes](/uploads/photos/clear1.jpg)                                                                                                                                                
                                                                                                                                                                                      
-  # Bournemouth's Favourite House Clearance Service                                                                                                                                                               
+  # Dorset's Favourite House Clearance Service                                                                                                                                                               
                                                                                                                                                                                      
   {{< breadcrumbs >}}                                                                                                                                                            
                                                                                                                                                                                     
@@ -13,7 +13,7 @@ title: Home
 
 {{< brick_intro >}}
 # Your Trusted Local Team
-If you are looking for a reliable property clearance service in and around Bournemouth, here at Baz's Clearances we merit your consideration. We are available on **07793 251 677** all reasonable hours. We are a small, well-accredited local team who are reliable, trustworthy and efficient. Follow this [LINK](https://bazclearance.co.uk/feedback/) to check our reputaton on our Feedback page.
+If you are looking for a reliable property clearance service in Dorset, here at Baz's Clearances we merit your consideration. We are available on **07793 251 677** all reasonable hours. We are a small, well-accredited local team who are reliable, trustworthy and efficient. Follow this [LINK](https://bazclearance.co.uk/feedback/) to check our reputaton on our Feedback page.
 
 {{< button "Get in touch" "/get-in-touch/" >}}
 
@@ -32,9 +32,9 @@ If you are looking for a reliable property clearance service in and around Bourn
 - Environmentally Friendly 
 - Friendly well-mannered workers
 
-Our logo is a gavel, and our strapline is:
-**“..... and it's gone!!“**  
-Because that is what we deliver. Everything gone and out of your way.
+Our strapline is:
+**“One less thing to worry about“**  
+We'd like to think that we de-clutter, de-stress and de-liver.
 
 Our house clearing service is inclusive of all labour and waste handling costs.
 Our quotations are obviously free and entirely without commitment 
