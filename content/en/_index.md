@@ -1,5 +1,5 @@
 ---
-title: "A professional Dorset house clearance Company"
+title: "Baz's Clearances: A professional Dorset house clearance Company"
 ---
 {{< brick_title >}}                                                                                                                                                            
                                                                                                                                                                                      
