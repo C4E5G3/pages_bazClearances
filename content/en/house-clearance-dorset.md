@@ -1,5 +1,5 @@
 ---
-title: "House Clearance Dorset"
+title: "A guide to our house clearance Dorset services"
 date: 2024-06-28T20:14:55+02:00
 draft: false
 ---
@@ -8,7 +8,7 @@ draft: false
                                                                                                                                                                                      
    ![generic house clearance showing an assortment of cardboard boxes](/uploads/photos/clear1.jpg)                                                                                                                                              
                                                                                                                                                                                      
-   # Dorset's Favourite House Clearance Service                                                                                                                                 
+   # A Local Dorset House Clearance Service                                                                                                                                 
                                                                                                                                                                                      
    {{< breadcrumbs >}}                                                                                                                                                          
                                                                                                                                                                                     

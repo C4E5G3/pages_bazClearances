@@ -1,5 +1,5 @@
 ---
-title: About
+title: "Meet Baz and Marcus" 
 ---
 
 {{< brick_intro >}}  

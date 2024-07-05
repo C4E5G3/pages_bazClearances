@@ -1,5 +1,5 @@
 ---
-title: Privacy policy
+title: "Our Privacy policy" 
 ---
 {{< brick_wide >}}  
 

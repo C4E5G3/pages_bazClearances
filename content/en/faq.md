@@ -1,5 +1,5 @@
 ---
-title: F.A.Q.s
+title: "FAQ's: A list of some frequently asked questions"
 image:
 --- 
 {{< brick_title >}}
