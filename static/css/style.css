@@ -32,12 +32,12 @@
 
 
 :root {
-    --textDark: rgba(38, 50, 56, 1);
-    --textMedium: rgba(38, 50, 56, 0.7);
-    --borderMedium: rgba(38, 50, 56, 0.2); 
-    --borderLight: rgba(38, 50, 56, 0.075);
-    --accent: #2F855A; /* Green */
-    --textAccent: #5BC0EB; /* Light Blue */
+    --textDark: #636B2F; /* Olive - base colour */
+    --textMedium: #030A01;  /* main text */
+    --borderMedium: #FFD1DC; 
+    --borderLight: #0000FF;
+    --accent: #E8C61F; /* Gold */
+    --textAccent: #54AAB4; /* Red */
     --light: rgba(38, 50, 56, 0.035);
 }
 
@@ -51,28 +51,22 @@ img {filter: grayscale(0);}
 /* colorize_image
 /*------------------------*/
 
-.colorize_image {filter: contrast(.4) sepia(.4) hue-rotate(333deg) grayscale(0.6)!important;}
+.colorize_image {filter: contrast(1) sepia(1) hue-rotate(160deg) grayscale(0.8)!important;}
 
 /*------------------------*/
 /* black_2_textDark
 /*------------------------*/
 
-.map::after, .black_2_textDark {filter: contrast(0.7) sepia(1) hue-rotate(260deg)!important;}
+.map::after, .black_2_textDark {filter: contrast(0.7) sepia(1) hue-rotate(160deg)!important;}
 
 /*------------------------*/
 /* black_2_textMedium
 /*------------------------*/
 
-.black_2_textMedium {filter: contrast(0.3) sepia(0.3) hue-rotate(100deg) brightness(1.4)!important;}
+.black_2_textMedium {filter: contrast(0.3) sepia(0.3) hue-rotate(160deg) brightness(1.4)!important;}
 
 /*------------------------*/
 /* black_2_accent
 /*------------------------*/
 
-
-#    filter: contrast(1.5) sepia(1) hue-rotate(260deg) saturate(2) brightness(1.2)!important;
-
-
-
-
-.black_2_accent {filter: contrast(0.11) sepia(2) hue-rotate(230deg) contrast(2)!important;}
+.black_2_accent {filter: contrast(0.11) sepia(1) hue-rotate(340deg) contrast(13)!important;}

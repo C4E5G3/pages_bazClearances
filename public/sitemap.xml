@@ -56,14 +56,6 @@
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/basic/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://localhost:1313/basic2/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0</priority>
-  </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
@@ -80,10 +72,6 @@
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/elements/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0</priority>
-  </url><url>
     <loc>http://localhost:1313/faq/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
@@ -93,18 +81,6 @@
     <priority>0</priority>
   </url><url>
     <loc>http://localhost:1313/get-in-touch/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://localhost:1313/bgimage/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://localhost:1313/bgimage2/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://localhost:1313/bgimage3/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url><url>

@@ -1,5 +1,5 @@
 favicon_image: /uploads/branding/logo-fern.png
-sticky_header: true
+sticky_header: false
 customcursor: true
 intersectionobserver: true
 filter_has_numbers: true
@@ -7,4 +7,4 @@ page_size: 3
 preheader: 
   active: true
   is_light: true
-  text: Available seven days a week
+  text: Call anytime for a free quote
