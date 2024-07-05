@@ -5,7 +5,7 @@ title: "A professional Dorset house clearance Company"
                                                                                                                                                                                      
   ![a generic house clearance featuring an assortment of brown cardboard packing boxes](/uploads/photos/clear1.jpg)                                                                                                                                                
                                                                                                                                                                                      
-  # Dorset's Favourite House Clearance Service                                                                                                                                                               
+  # A Local Dorset House Clearance Service                                                                                                                                                               
                                                                                                                                                                                      
   {{< breadcrumbs >}}                                                                                                                                                            
                                                                                                                                                                                     
