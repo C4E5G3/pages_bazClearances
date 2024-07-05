@@ -12,8 +12,8 @@ menuitems:
     link: /feedback/
   - title: Contact Us
     link: /contact/
-  - title: Tips
-    link: /tips/
+  - title: Our Blog
+    link: /blog/
 cta:
   active: true
   title: Get In Touch
