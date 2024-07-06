@@ -2,6 +2,7 @@ baseURL: https://bazclearance.co.uk/
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
+enableRobotsTXT: true
 
 markup:
   goldmark:
