@@ -12,7 +12,7 @@ title: "Baz's Clearances: A professional Dorset house clearance Company"
 {{< /brick_title >}} 
 
 {{< brick_intro >}}
-# Your Trusted Local Team
+## Your Trusted Local Team
 If you are looking for a reliable property clearance service in Dorset, here at Baz's Clearances we merit your consideration. We are available on **07793 251 677** all reasonable hours. We are a small, well-accredited local team who are reliable, trustworthy and efficient. Follow this [LINK](https://bazclearance.co.uk/feedback/) to check our reputaton on our Feedback page.
 
 {{< button "Get in touch" "/get-in-touch/" >}}

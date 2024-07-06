@@ -8,17 +8,21 @@ draft: false
 
 {{< breadcrumbs >}} 
 
-## We cover all of Dorset and are based in Ferndown just on the periphery of Poole & Bournemouth
+&nbsp;
+# Dorset House Clearance
 {{< /brick_title >}} 
+{{< brick_intro >}} 
+### We are based in Ferndown just on the periphery of Poole & Bournemouth; this means we are essentially a Dorset House Clearance Company...but of course we can work further afield. 
 
+{{< /brick_intro >}} 
 {{< brick_image2 >}}
 
 ![a map showing a forty mile radius centred on Bournemouth](/uploads/illustrations/cuate/our_areas.png)                                                                        
                                                                                                                                                                                   
                                                                                                                                                                                  
-We are a Ferndown House Clearance Company, but are available throughout Dorset & Hampshire - Bournemouth, Poole, Christchurch, St Leonard's, Ringwood, Verwood, Wimbourne, Blandford Forum,     
-Shaftesbury, Sherborne, Dorchester, Weymouth, Swanage, Wareham, Southampton, Portsmouth, Lyndhurst, Lymington, New Milton, Winchester, Petersfield, Andover, Gosport,          
-Eastleigh, Havant - and we also can work as far as Yeovil & Salisbury.  
+We are available as per the image postcodes <span style="color:#54AAB4">**[ SP, SO, DT, BH, PO ]**</span> so essentially throughout Dorset & into Hampshire ---> Bournemouth, Poole, Christchurch, St Leonard's, Ringwood, Verwood, Wimbourne, Blandford Forum, Shaftesbury, Sherborne, Dorchester, Weymouth, Swanage, Wareham, Southampton, Portsmouth, Lyndhurst, Lymington, New Milton, Winchester, Petersfield, Andover, Gosport, Eastleigh, Havant - and we also can work as far away as Yeovil & Salisbury. If in doubt give us a call anyway - we can work farther afield on occasion.
+
+  
  
 {{< /brick_image2 >}} 
 

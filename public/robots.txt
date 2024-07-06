@@ -1,3 +1,4 @@
 User-agent: googlebot
+Disallow: /404.html
 Sitemap: https://bazclearance.co.uk/sitemap.xml
 Sitemap: https://bazclearance.co.uk/image_sitemap.xml

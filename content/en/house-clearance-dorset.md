@@ -18,7 +18,7 @@ draft: false
                                                                                                                                                                                      
  {{< breadcrumbs >}}                                                                                                                                                            
                                                                                                                                                                                  
-# Dorset House Clearance                                                                                                                                                                 
+## Dorset House Clearance                                                                                                                                                                 
 
 We have many long-term clients in and around Dorset,  as well as further afield, who we have been helping to clear properties and move goods for 
 for several years. One trusted client would only consider us when it came to moving an extremely expensive antique table, and another entrusts us to move specialist 
@@ -131,7 +131,7 @@ your need to advance in your life with minimal inconvenience.
  
 
  {{< brick_wide >}} 
-# Our Commitment
+## Our Commitment
 
 Our commitment is simply not to let you down, not to leave you with loose ends, but rather to make an efficient job of 
 clearing your property to your satisfaction. All of our clients to date have been more than happy with our services, 
