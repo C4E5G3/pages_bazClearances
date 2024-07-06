@@ -1,0 +1,3 @@
+User-agent: googlebot
+Sitemap: https://bazclearance.co.uk/sitemap.xml
+Sitemap: https://bazclearance.co.uk/image_sitemap.xml
