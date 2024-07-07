@@ -21,7 +21,7 @@ draft: false
 {{< brick_intro >}}
 
 ## Leave Us A Review!
-We let Google manage our reviews. (Although we have other good reviews scattered about - Yell.com, Bark.com)
+We let Google manage our reviews. (Although we have other good reviews scattered about - [Yell.com](https://www.yell.com/biz/baz-the-van-ferndown-8529341/), [Bark.com](https://www.bark.com/en/gb/company/dorset-house-clearance/eZjbL/?show_reviews=true)
 
 Feel free to go to this Google Link and leave us a review
 

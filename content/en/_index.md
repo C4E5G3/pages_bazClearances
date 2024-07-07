@@ -1,5 +1,5 @@
 ---
-title: "Our Home Page"
+title: "Home"
 ---
 {{< brick_title >}}                                                                                                                                                            
                                                                                                                                                                                      
