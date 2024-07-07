@@ -1,5 +1,5 @@
 ---
-title: "Who has helped us? A list of credits + the site license"
+title: "A List Of Credits + Site License"
 date: 2024-03-05T17:45:53+01:00
 draft: false
 ---

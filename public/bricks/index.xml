@@ -28,5 +28,12 @@
       <guid>http://localhost:1313/bricks/map/</guid>
       <description>Contact us 92 Church Rd Ferndown Dorset BH22 9EX</description>
     </item>
+    <item>
+      <title>Reviews</title>
+      <link>http://localhost:1313/bricks/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bricks/reviews/</guid>
+      <description>What our customers say about us </description>
+    </item>
   </channel>
 </rss>

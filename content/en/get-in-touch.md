@@ -1,5 +1,5 @@
 ---
-title: "Here are our details if you want to get in touch"
+title: "Our Contact Details"
 ---
 
 

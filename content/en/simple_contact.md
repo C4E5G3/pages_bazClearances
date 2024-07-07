@@ -1,5 +1,5 @@
 ---
-title: "Our details should you need to contact us"
+title: "Our Contact Details"
 date: 2024-03-05T22:48:25+01:00
 draft: false
 ---

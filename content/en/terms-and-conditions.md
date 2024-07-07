@@ -1,5 +1,5 @@
 ---
-title: "Terms And Conditions"                                                                                                                                                            
+title: "Our Terms And Conditions"                                                                                                                                                            
 ---                                                                                                                                                                            
  
 {{< brick_wide >}}                                                                                                                                                             

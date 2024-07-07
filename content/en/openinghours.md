@@ -1,6 +1,6 @@
 
 ---
-title: "These are our openinghours"
+title: "Our Opening Hours"
 date: 2024-03-05T16:52:02+01:00
 draft: false
 ---

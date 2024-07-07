@@ -1,5 +1,5 @@
 ---
-title: "Meet Baz and Marcus" 
+title: "Meet Baz And Marcus" 
 ---
 
 {{< brick_intro >}}  

@@ -1,5 +1,5 @@
 ---
-title: "FAQ's: A list of some frequently asked questions"
+title: "Common Customer Queries"
 image:
 --- 
 {{< brick_title >}}

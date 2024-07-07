@@ -1,5 +1,5 @@
 ---
-title: "A link to our Google reviews - and also feel free to leave one!"
+title: "A Link To Our Google Reviews"
 date: 2024-02-29T15:25:23+01:00
 draft: false
 ---
