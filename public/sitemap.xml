@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-07-19T10:13:35+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/clear_and_stage/</loc>
+    <lastmod>2024-07-19T10:13:35+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0</priority>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-28T20:15:08+02:00</lastmod>
+    <lastmod>2024-07-19T10:13:35+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url><url>
@@ -39,10 +49,6 @@
   </url><url>
     <loc>http://localhost:1313/feedback/</loc>
     <lastmod>2024-02-29T15:25:23+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0</priority>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url><url>
