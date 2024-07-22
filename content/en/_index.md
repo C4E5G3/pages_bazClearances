@@ -13,7 +13,7 @@ title: "Home"
 
 {{< brick_intro >}}
 ## Your Trusted Local Team
-If you are looking for a reliable property clearance service in Dorset, here at Baz's Clearances we merit your consideration. We are available on **07793 251 677** all reasonable hours. We are a small, well-accredited local team who are reliable, trustworthy and efficient. Follow this [LINK](https://bazclearance.co.uk/feedback/) to check our reputaton on our Feedback page.
+If you are looking for a reliable property clearance service in Dorset, here at Baz's Clearances we can help. Available on **07793 251 677** & **01202 896289**, we are a Ferndown -outskirts of Bournemouth- based, small, well-accredited local team primarily operating in a 40 mile radius of Bournemouth, (so Dorset, Hampshire, and even into Wiltshire & Somerset). We are considered reliable, trustworthy and efficient. Follow this [LINK](https://bazclearance.co.uk/feedback/) to check our reputaton on our Feedback page.
 
 {{< button "Get in touch" "/get-in-touch/" >}}
 
