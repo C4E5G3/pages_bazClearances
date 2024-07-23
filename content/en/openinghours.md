@@ -27,5 +27,5 @@ draft: false
 
 ## telephone:
 ## 07793 251 677
-![a graphic of a man on the phone](/uploads/illustrations/cuate/phone_man.png)  
+![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 {{< /brick_cta >}}

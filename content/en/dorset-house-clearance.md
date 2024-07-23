@@ -27,7 +27,7 @@ Eastleigh, Havant - and we also can work as far as Yeovil & Salisbury.
 
 ## We are available on 07793 251 677
 
-![generic phone symbol](/uploads/illustrations/cuate/phone_man.png)
+![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 
 
 {{< /brick_cta >}}

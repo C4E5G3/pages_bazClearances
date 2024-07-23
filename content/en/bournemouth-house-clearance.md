@@ -31,7 +31,7 @@ We are available as per the image postcodes <span style="color:#54AAB4">**[ SP, 
 
 ## We are available on 07793 251 677
 
-![generic phone symbol](/uploads/illustrations/cuate/phone_man.png)
+![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 
 
 {{< /brick_cta >}}

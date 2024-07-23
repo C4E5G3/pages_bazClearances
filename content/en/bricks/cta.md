@@ -9,4 +9,4 @@ title: cta
 **Or**                                                                                                                                                                                    
 {{< button2 "Send us an Email" "/email/" >}}
 
-![generic mobile phone graphic](/uploads/illustrations/cuate/phone_man.png)
+![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)

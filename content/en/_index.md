@@ -71,7 +71,8 @@ We have:
 ## 07793 251 677 
 **On the mobile? Just click the small icon** {{< contactbutton>}}  
 
-![a graphic of a mobile phone with a communication bubble](/uploads/illustrations/cuate/phone_man.png)    
+![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
+
 {{< /brick_cta >}} 
 
 {{< brick_features >}}{{< /brick_features >}}    

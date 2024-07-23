@@ -32,12 +32,12 @@
 
 
 :root {
-    --textDark: #505824; /* Olive - base colour */
+    --textDark: #2E2E2E; /* GREY - base colour */
     --textMedium: #030A01;  /* main text */
     --borderMedium: #FFD1DC; 
     --borderLight: #939799;
-    --accent: #0072BB; /* Gold */
-    --textAccent: #54AAB4; /* Cyan blue */
+    --accent: #D64F4F; /* blue */
+    --textAccent: #005A9C; /* red */
     --light: rgba(38, 50, 56, Cyan b.035);
 }
 

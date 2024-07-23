@@ -33,7 +33,7 @@ Feel free to go to this Google Link and leave us a review
 ## 07793 251 677
 
 **On the mobile? Just click the small icon** {{< contactbutton >}}
-
-![a graphic of a mobile phone with a communication bubble](/uploads/illustrations/cuate/phone_man.png)     
+ 
+![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 
 {{< /brick_cta >}}

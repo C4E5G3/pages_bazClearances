@@ -48,6 +48,6 @@ Catch up with us on social media if you like - We have a Facebook page, My Shipl
 Alternatively:
 {{< button2 "Send us an email" "/email/" >}}
 
-![generic mobile phone graphic](/uploads/illustrations/cuate/phone_man.png)
+![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 
 {{< /brick_cta >}}
