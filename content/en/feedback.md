@@ -32,7 +32,7 @@ Feel free to go to this Google Link and leave us a review
 ### For any questions or a quote, we are available on:
 ## 07793 251 677
 
-**On the mobile? Just click the small icon** {{< contactbutton >}}
+**On the mobile? Just click the small RED icon** {{< contactbutton >}}
  
 ![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 

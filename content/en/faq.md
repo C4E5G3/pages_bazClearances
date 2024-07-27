@@ -25,7 +25,7 @@ If your query is not covered, then don't hesitate to get in touch
 
 ## 07793 251 677
 
-**On the mobile? Just click the small icon** {{< contactbutton >}}
+**On the mobile? Just click the small RED icon** {{< contactbutton >}}
 
 
 ![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)

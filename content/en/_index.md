@@ -69,7 +69,7 @@ We have:
 ##  You can call us today for a quote on:  
 
 ## 07793 251 677 
-**On the mobile? Just click the small icon** {{< contactbutton>}}  
+**On the mobile? Just click the small RED icon** {{< contactbutton>}}  
 
 ![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
 

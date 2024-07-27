@@ -42,7 +42,7 @@ Catch up with us on social media if you like - We have a Facebook page, My Shipl
 
   ### For a no obligation quote on your house clearance ring us on  
   ## 07793 251 677  
-**On the mobile? Just click the small icon**
+**On the mobile? Just click the small RED icon**
 {{< contactbutton >}}
 
 Alternatively:

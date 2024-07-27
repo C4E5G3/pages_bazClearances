@@ -4,7 +4,7 @@ title: cta
 
   ## We are available on 07793 251 677
 
-**On the mobile? Just click the phone icon -** {{< contactbutton >}} 
+**On the mobile? Just click the RED phone icon -** {{< contactbutton >}} 
 
 **Or**                                                                                                                                                                                    
 {{< button2 "Send us an Email" "/email/" >}}
