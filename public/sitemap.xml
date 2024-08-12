@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-07-23T08:42:45+02:00</lastmod>
+    <lastmod>2024-08-10T20:34:04+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-23T08:42:45+02:00</lastmod>
+    <lastmod>2024-08-10T20:34:04+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/managing_a_clearance/</loc>
+    <lastmod>2024-08-10T20:34:04+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url><url>
