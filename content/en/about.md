@@ -25,10 +25,7 @@ and then to give you a quote and a timeframe. Some people have strict deadlines,
 are important items that need to be found, sometimes there are specific items that need to be delivered elsewhere, sometimes there is essential paperwork that needs 
 to be preserved, and so forth.
 
-Me and Marcus both have a very strong work ethic, and enjoy helping people. I was a builder before injuring myself. I have been couriering & moving things for 20 years now, 
-& I am very dependable. You can click [here to see my Shiply courier reviews.](https://www.shiply.com/transport-provider/bazthevan)Lots of jobs are standard, some are different. Sometimes we have clients who are coping with a 
-bereavement, some clients are coming from distance and are maybe putting an elderly relative into a care home. Whatever the circumstances, we strive to facilitate 
-the process for you. 
+Me and Marcus both have a very strong work ethic, and enjoy helping people. I was a builder before injuring myself. I have been couriering & moving things for 20 years now, & I am very dependable. Lots of jobs are standard, some are different. Sometimes we have clients who are coping with a bereavement, some clients are coming from distance and are maybe putting an elderly relative into a care home. Whatever the circumstances, we strive to facilitate the process for you. 
 
 We possess several professional storage units, and are able to store and hold any large items you might want to keep for later use. We service the whole of Dorset, 
 but can also work in neighbouring counties.
