@@ -20,7 +20,19 @@ socials:
   - title: Facebook
     link: https://facebook.com/bazclearance/
     logo_image: /img/facebook.svg
+  - title: Pinterest
+    link: https://www.pinterest.co.uk/bazclearance/
+    logo_image: /img/pinterest.svg
+  - title: Twitter
+    link: https://x.com/bazclearance
+    logo_image: /img/twitter.svg
   - title: Shiply
     link: https://www.shiply.com/transport-provider/bazthevan
-    logo_image: /img/world.svg
+    logo_image: /img/shiply.svg
+ # - title: Instagram
+ #   link: https://facebook.com/bazclearance/
+ #   logo_image: /img/instagram.svg
+ # - title: Linkedin
+ #   link: https://facebook.com/bazclearance/
+ #   logo_image: /img/linkedin.svg
     footer_text: Site built on HugoBricks 
