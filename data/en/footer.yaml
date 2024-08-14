@@ -19,13 +19,13 @@ menuitems:
 socials:
   - title: Facebook
     link: https://facebook.com/bazclearance/
-    logo_image: /img/facebook.svg
+    logo_image: /img/afb.svg
   - title: Pinterest
     link: https://www.pinterest.co.uk/bazclearance/
     logo_image: /img/pinterest.svg
   - title: Twitter
     link: https://x.com/bazclearance
-    logo_image: /img/twitter.svg
+    logo_image: /img/1twitter.svg
  # - title: Instagram
  #   link: https://facebook.com/bazclearance/
  #   logo_image: /img/instagram.svg
