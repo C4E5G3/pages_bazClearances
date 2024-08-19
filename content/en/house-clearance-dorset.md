@@ -20,9 +20,7 @@ draft: false
                                                                                                                                                                                  
 ## Dorset House Clearance                                                                                                                                                                 
 
-We have many long-term clients in and around Dorset,  as well as further afield, who we have been helping to clear properties and move goods for 
-for several years. One trusted client would only consider us when it came to moving an extremely expensive antique table, and another entrusts us to move specialist 
-items worth five or even six figures. Actually, in his own words, he regards us the 'white glove delivery service', because of the level of
+We have many long-term clients in and around Dorset, as well as further afield, who we have been helping to clear properties and move goods for for several years. One trusted client would only consider us when it came to moving an extremely expensive antique table, and another entrusts us to move specialist items worth five or even six figures. Actually, in his own words, he regards us the 'white glove delivery service', because of the level of
 service we provide. But our reputation is not just anecdotal, you can read our reviews at any time.  
 {{< button "Our Reviews" "/feedback/" >}}  
  
@@ -38,10 +36,7 @@ service we provide. But our reputation is not just anecdotal, you can read our r
 ### Our Backstory
 
 Over the last few years I have been given sporadic jobs from friends and acquaintances where they have asked me to move bits and bobs, or on occasion, perform a total house clearance. People that know me well know that I am reliable and that I am "the man for the job". So back in 2022, myself and Marcus decided to bite the bullet and start a house clearance business in Dorset. We did some preliminary marketing and set up a provisional website, (with of course the 
-obligatory teething problems), but since the summer of 2023 we have started to get calls, and have now been up and running properly for about 6 months. We are based in Ferndown on the outskirts of Bournemouth, and we serve the whole of Dorset, as well as Hampshire and parts of Somerset and Wiltshire. (In fact, given that the preponderance of Dorset's inhabitants reside in Bournemouth and Poole, we originally tried to brand ourselves as **House Clearance Bournemouth** but Ferndown where we are based does not count as Bournemouth, in the eyes of the algorithms, and thus we now identify as a Dorset House Clearance Company. Such are the travails of marketing and ranking in 2024. However!! We are five miles from Bournemouth and Poole so we really are particularly well-positioned and very much available for house clearances in Bournemouth, {and house clearances in Poole}). 
-
-Although we are relatively new to the sector, I have also been working as a courier for over ten years, and I have provided a link to my Shiply profile, ["BazTheVan"](https://www.shiply.com/transport-provider/bazthevan), so that you 
-can get a clear idea of my business reputation and standards. 
+obligatory teething problems), but since the summer of 2023 we have started to get calls, and have now been up and running properly for about 6 months. We are based in Ferndown on the outskirts of Bournemouth, and we serve the whole of Dorset, as well as Hampshire and parts of Somerset and Wiltshire. (In fact, given that the preponderance of Dorset's inhabitants reside in Bournemouth and Poole, we originally tried to brand ourselves as **House Clearance Bournemouth** but Ferndown where we are based does not count as Bournemouth, in the eyes of the algorithms, and thus we now identify as a [Dorset House Clearance Company](https://bazclearance.co.uk/). Such are the travails of marketing and ranking in 2024. However!! We are five miles from Bournemouth and Poole so we really are particularly well-positioned and very much available for house clearances in Bournemouth, {and house clearances in Poole}). 
 
  {{< /brick_image2 >}}   
  {{< brick_image >}}   
@@ -136,6 +131,7 @@ your need to advance in your life with minimal inconvenience.
 Our commitment is simply not to let you down, not to leave you with loose ends, but rather to make an efficient job of 
 clearing your property to your satisfaction. All of our clients to date have been more than happy with our services, 
 and we can ensure that your house clearance runs smoothly and efficiently, according to our promise.
+[Click here](https://bazclearance.co.uk/) to return to our homepage.
 
 {{< /brick_wide >}} 
                                                                                                                                                                                 
