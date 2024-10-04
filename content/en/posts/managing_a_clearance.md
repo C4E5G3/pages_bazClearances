@@ -1,7 +1,7 @@
 ---
 title: "How To Manage a House Clearance"
 date: 2024-08-10T20:34:04+02:00
-draft: false
+draft: true
 ---
 
 

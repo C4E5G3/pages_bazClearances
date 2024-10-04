@@ -1,7 +1,7 @@
 ---
 title: "The beneficial effects of using local businesses"
 date: 2024-07-19T16:42:18+02:00
-draft: false
+draft: true
 ---
 
 # The Benefits of Supporting Local Businesses

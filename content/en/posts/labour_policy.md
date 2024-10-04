@@ -1,7 +1,7 @@
 ---
 title: "The 2024 Labour Environmental Policy"
 date: 2024-07-23T08:42:45+02:00
-draft: false
+draft: true
 ---
 
 ## The Environmental Policy of the 2024 UK Labour Government

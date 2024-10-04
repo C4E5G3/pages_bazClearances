@@ -1,7 +1,7 @@
 ---
 title: "Does An Empty House Enhance A Sale?"
 date: 2024-07-19T10:13:35+02:00
-draft: false
+draft: true
 ---
 
 # The Benefits of Emptying a House Before Selling: To Stage or Not to Stage?
