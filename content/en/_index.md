@@ -1,11 +1,11 @@
 ---
-title: "Home"
+title: "House Clearances in Dorset"
 ---
 {{< brick_title >}}                                                                                                                                                            
                                                                                                                                                                                      
   ![a generic house clearance featuring an assortment of brown cardboard packing boxes](/uploads/photos/clear1.jpg)                                                                                                                                                
                                                                                                                                                                                      
-  # A Local Dorset House Clearance Service                                                                                                                                                               
+  # Local Dorset House Clearances                                                                                                                                                               
                                                                                                                                                                                      
   {{< breadcrumbs >}}                                                                                                                                                            
                                                                                                                                                                                     

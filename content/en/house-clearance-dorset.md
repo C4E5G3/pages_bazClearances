@@ -1,5 +1,5 @@
 ---
-title: "A Guide To Our Services"
+title: "Dorset House Clearances"
 date: 2024-06-28T20:14:55+02:00
 draft: false
 ---
@@ -8,7 +8,7 @@ draft: false
                                                                                                                                                                                      
    ![generic house clearance showing an assortment of cardboard boxes](/uploads/photos/clear1.jpg)                                                                                                                                              
                                                                                                                                                                                      
-   # A Local Dorset House Clearance Service                                                                                                                                 
+   # Local House Clearances In Dorset                                                                                                                                
                                                                                                                                                                                      
    {{< breadcrumbs >}}                                                                                                                                                          
                                                                                                                                                                                     
@@ -126,7 +126,7 @@ your need to advance in your life with minimal inconvenience.
  
 
  {{< brick_wide >}} 
-## Our Commitment
+## A House Clearance in Dorset With a Commitment To You
 
 Our commitment is simply not to let you down, not to leave you with loose ends, but rather to make an efficient job of 
 clearing your property to your satisfaction. All of our clients to date have been more than happy with our services, 
