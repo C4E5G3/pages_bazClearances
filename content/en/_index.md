@@ -13,10 +13,15 @@ title: "House Clearances in Dorset"
 
 {{< brick_intro >}}
 ## Your Trusted Local Team
-If you are looking for a reliable property clearance service in Dorset, here at Baz's Clearances we can help. We are a well-accredited local team operating throughout Dorset; ring us on 07793 251 677 or 01202 896289 to arrange a no obligation quote or just to get some preliminary advice. We are considered reliable, trustworthy and efficient. Follow this [LINK --> Our Reviews](https://bazclearance.co.uk/feedback/) to check our reputaton on our Feedback page. As well as Dorset, we cover Hampshire, and also into Wiltshire & Somerset. We can even work further afield, especially larger jobs. 
+If you are looking for a top quality house clearance team in Dorset, we can help. Just give us a ring on 
+07793 251 677 or 01202 896289 to arrange a no obligation quote or to get some preliminary advice, or just 
+to have a chat, we don't mind. All of our clients so far seem to have been very satisfied with our work,
+and I think it is fair to say that we are reliable, trustworthy and efficient. We really do try to do
+the job to the best of our abilities and to leave you fully satisfied with our service. As well as Dorset, 
+we cover Hampshire, and can also work a bit further afield, if required.
 {{< button "Get in touch" "/get-in-touch/" >}}
 
-![a graphic of workmen carring boxes from a van](/uploads/illustrations/cuate/van.jpg)
+![a graphic of workmen carrying boxes from a van](/uploads/illustrations/cuate/van.jpg)
 
 {{< /brick_intro >}}
 {{< brick_image2 >}}
@@ -59,6 +64,8 @@ We have:
 - A duty to behave in a professional manner whilst on your property
 - A commitment to provide a proper high-quality service that is fairly-priced
 - A commitment to be worthy of a five star review
+- Ample reviews already of our service, see --> [house clearance in Dorset](https://g.page/r/CQwqbHECdONlEBM) 
+
 
  
 

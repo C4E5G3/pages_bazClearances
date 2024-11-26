@@ -21,8 +21,7 @@ draft: false
 ## Dorset House Clearance                                                                                                                                                                 
 
 We have many long-term clients in and around Dorset, as well as further afield, who we have been helping to clear properties and move goods for for several years. One trusted client would only consider us when it came to moving an extremely expensive antique table, and another entrusts us to move specialist items worth five or even six figures. Actually, in his own words, he regards us the 'white glove delivery service', because of the level of
-service we provide. But our reputation is not just anecdotal, you can read our reviews at any time.  
-{{< button "Our Reviews" "/feedback/" >}}  
+service we provide. But our reputation is not just anecdotal, you can read our reviews at any time, just check our [Google local business listing](https://g.page/r/CQwqbHECdONlEBM)  
  
 {{< /brick_wide >}}                                                                                                                                                             
  
