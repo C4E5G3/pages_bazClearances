@@ -67,6 +67,10 @@
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url><url>
+    <loc>http://localhost:1313/bricks/intro/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0</priority>
+  </url><url>
     <loc>http://localhost:1313/bricks/map/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>

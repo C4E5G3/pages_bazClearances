@@ -22,6 +22,13 @@
       <description>&lt;h2 id=&#34;our-services&#34;&gt;Our Services&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/icons/material-symbols/200/rounded/house.png&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;residential--commercial&#34;&gt;Residential &amp;amp; Commercial&lt;/h3&gt;&#xA;&lt;p&gt;Available for residential &amp;amp; commercial properties throughout Dorset - including Bournemouth, Poole &amp;amp; environs.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/icons/material-symbols/200/rounded/quote.png&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;quotation&#34;&gt;Quotation&lt;/h3&gt;&#xA;&lt;p&gt;We work to the customer’s specifications. Just explain what you want done and how you want it done, and we will implement it. Our quotations are not exorbitant. We give competitive, reasonable quotations&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/icons/material-symbols/200/rounded/waste.png&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;waste&#34;&gt;Waste&lt;/h3&gt;&#xA;&lt;p&gt;We are registered with the environmental agency (as legally required); &lt;strong&gt;our Waste Carrier Registration is: CBDU508787&lt;/strong&gt;. All rubbish is correctly &amp;amp; legally disposed of. If the job requires it, we can hire skips of course.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>intro</title>
+      <link>http://localhost:1313/bricks/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bricks/intro/</guid>
+      <description>&lt;h1 id=&#34;the-ultimate-theme-you-need-to-start-your-hugo-website&#34;&gt;The Ultimate Theme You Need To Start Your Hugo Website&lt;/h1&gt;&#xA;&lt;p&gt;Hugobricks is a free website theme built with Hugo and vanilla CSS, providing everything you need to jumpstart your Hugo website and save valuable time.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/get-started/&#34; class=&#34;button&#34;&gt;Get started for free&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/brick_intro.png&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>map</title>
       <link>http://localhost:1313/bricks/map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
