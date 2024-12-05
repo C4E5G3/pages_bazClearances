@@ -1,10 +1,9 @@
-baseURL: https://main.d35anekmmew9go.amplifyapp.com
+# baseURL: 
 # https://bazclearance.co.uk/
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
 enableRobotsTXT: false
-publishDir: "public"
 
 markup:
   goldmark:
