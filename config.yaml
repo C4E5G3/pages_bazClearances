@@ -1,4 +1,4 @@
-baseURL: https://bazclearance.netlify.app 
+baseURL: http://bazclearance.netlify.app 
 # https://bazclearance.co.uk/
 theme: hugobricks
 defaultContentLanguage: en
