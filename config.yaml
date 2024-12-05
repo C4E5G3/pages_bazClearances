@@ -3,6 +3,7 @@ theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
 enableRobotsTXT: false
+publishDir: "public"
 
 markup:
   goldmark:
