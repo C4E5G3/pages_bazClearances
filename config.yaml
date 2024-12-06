@@ -1,4 +1,5 @@
-baseURL: https://bazclearance.co.uk/
+# baseURL: https://bazclearance.co.uk/
+baseURL: https://bazclearances.pages.dev/ 
 theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
