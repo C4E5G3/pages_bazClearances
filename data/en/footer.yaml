@@ -26,9 +26,9 @@ socials:
   - title: Twitter
     link: https://x.com/bazclearance
     logo_image: /img/1twitter.svg
- # - title: Instagram
- #   link: https://facebook.com/bazclearance/
- #   logo_image: /img/instagram.svg
+  - title: Google Local Business
+    link: https://g.page/r/CQwqbHECdONlEBM
+    logo_image: /img/gbp.svg
  # - title: Linkedin
  #   link: https://facebook.com/bazclearance/
  #   logo_image: /img/linkedin.svg
