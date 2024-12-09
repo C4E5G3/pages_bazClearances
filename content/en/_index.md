@@ -13,12 +13,8 @@ title: "House Clearances in Dorset"
 
 {{< brick_intro >}}
 ## Your Trusted Local Team
-If you are looking for a top quality house clearance team in Dorset, we can help. Just give us a ring on 
-07793 251 677 or 01202 896289 to arrange a no obligation quote or to get some preliminary advice, or just 
-to have a chat, we don't mind. All of our clients so far seem to have been very satisfied with our work,
-and I think it is fair to say that we are reliable, trustworthy and efficient. We really do try to do
-the job to the best of our abilities and to leave you fully satisfied with our service. As well as Dorset, 
-we cover Hampshire, and can also work a bit further afield, if required.
+If you are looking for a reliable and trustworthy house clearance team in Dorset, we can help. Just give us a ring on 07793 251 677 or 01202 896289 to arrange a no obligation quote or to get some preliminary advice, or just to have a chat, we don't mind. All of our clients so far have been very satisfied with our work,
+and that is what we strive for. We cover all of Dorset, and even a bit beyond. Just give us a call!
 {{< button "Get in touch" "/get-in-touch/" >}}
 
 ![a graphic of workmen carrying boxes from a van](/uploads/illustrations/cuate/van.jpg)
