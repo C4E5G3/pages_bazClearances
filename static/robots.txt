@@ -1,4 +1,15 @@
 User-agent: googlebot
 Disallow: /404.html
+
+# Block crawlers from indexing any pages on pages.dev
+{{ if or (eq .Site.BaseURL "https://13bddc5f.bazclearances.pages.dev/") (eq .Site.BaseURL "https://bazclearances.pages.dev/") }}
+User-agent: *
+Disallow: /
+{{ else }}
+User-agent: googlebot
+Disallow:
+{{ end }}
+
 Sitemap: https://bazclearance.co.uk/sitemap.xml
 Sitemap: https://bazclearance.co.uk/image_sitemap.xml
+
