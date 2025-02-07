@@ -1,5 +1,5 @@
 ---
-title: "Our Contact Details"
+title: "Get In Touch"
 ---
 
 
