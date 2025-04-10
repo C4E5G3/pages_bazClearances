@@ -1,5 +1,5 @@
 ---
-title: "House Clearances in Dorset"
+title: "Reliable Service"
 ---
 {{< brick_title >}}                                                                                                                                                            
                                                                                                                                                                                      
@@ -13,7 +13,7 @@ title: "House Clearances in Dorset"
 
 {{< brick_intro >}}
 ## Your Trusted Local Team
-Looking for a reliable house clearance in Dorset? Call us on 07793 251 677 for a no-obligation quote or advice. Your satisfaction is our priority!
+Dorset's trusted house clearance specialists: Baz's Clearances delivers reliable, affordable, and fully licensed services. Get a free quote and experience our professional approach. Call 07793 251 677.
 {{< button "Get in touch" "/get-in-touch/" >}}
 
 ![a graphic of workmen carrying boxes from a van](/uploads/illustrations/cuate/van.jpg)
