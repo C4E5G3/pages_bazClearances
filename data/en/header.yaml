@@ -4,16 +4,67 @@ mobile_view_width: 1000
 menuitems:
   - title: About Us
     link: /about/
-  - title: House Clearance Dorset
-    link: /house-clearance-dorset/
+  - title: Dorset House Clearance
+    link: /dorset-house-clearance/
   - title: FAQs
     link: /faq/
   - title: Feedback
     link: /feedback/
+  - title: Where We Cover
+    link: /house-clearance-dorset/
+    items:
+      - title: Bournemouth
+        link: /house-clearance-dorset/bournemouth/
+      - title: Poole
+        link: /house-clearance-dorset/poole
+      - title: Christchurch
+        link: /house-clearance-dorset/christchurch
+      - title: Ferndown
+        link: /house-clearance-dorset/ferndown
+      - title: Wimborne Minster
+        link: /house-clearance-dorset/wimborne-minster
+      - title: Blandford Forum
+        link: /house-clearance-dorset/blandford-forum
+      - title: Bridport
+        link: /house-clearance-dorset/bridport
+      - title: Verwood
+        link: /house-clearance-dorset/verwood
+      - title: Gillingham
+        link: /house-clearance-dorset/gillingham
+      - title: Sherborne
+        link: /house-clearance-dorset/sherborne
+      - title: Dorchester
+        link: /house-clearance-dorset/dorchester
+      - title: Weymouth
+        link: /house-clearance-dorset/weymouth
+      - title: Swanage
+        link: /house-clearance-dorset/swanage
+      - title: Wareham
+        link: /house-clearance-dorset/wareham
+      - title: Shaftesbury
+        link: /house-clearance-dorset/shaftesbury
+      - title: Highcliffe
+        link: /house-clearance-dorset/highcliffe
+      - title: West Moors
+        link: /house-clearance-dorset/west-moors
+      - title: Broadstone
+        link: /house-clearance-dorset/broadstone
+      - title: Upton
+        link: /house-clearance-dorset/upton
+      - title: Parkstone
+        link: /house-clearance-dorset/parkstone
+      - title: Puddletown
+        link: /house-clearance-dorset/puddletown
+      - title: Wool
+        link: /house-clearance-dorset/wool
+      - title: Beaminster
+        link: /house-clearance-dorset/beaminster
+      - title: Sturminster Newton
+        link: /house-clearance-dorset/sturminster-newton
+      - title: Lyme Regis
+        link: /house-clearance-dorset/lyme-regis
   - title: Contact Us
     link: /contact/
-  - title: Our Blog
-    link: /blog/
 cta:
   active: true
   title: Get In Touch

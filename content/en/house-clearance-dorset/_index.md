@@ -1,7 +1,10 @@
 ---
-title: "Dorset & Beyond: The Areas We Cover"
-date: 2024-03-02T08:17:33+01:00
-draft: false
+title: "Dorset & Beyond: The Areas We Cover | Fast, Reliable & Eco-Friendly"
+description: "Professional house clearance serving all of Dorset. We clear homes, offices, and estates. Free quotes & same-day inspection available."
+slug: "house-clearance-dorset"
+---
+
+
 ---
 
 {{< brick_title >}} 
@@ -18,11 +21,9 @@ draft: false
 {{< brick_image2 >}}
 
 ![a map showing a forty mile radius centred on Bournemouth](/uploads/illustrations/cuate/our_areas.png)                                                                        
-                                                                                                                                                                                  
                                                                                                                                                                                  
-We are available as per the image postcodes <span style="color:#54AAB4">**[ SP, SO, DT, BH, PO ]**</span> so essentially throughout Dorset & into Hampshire ---> Bournemouth, Poole, Christchurch, St Leonard's, Ringwood, Verwood, Wimbourne, Blandford Forum, Shaftesbury, Sherborne, Dorchester, Weymouth, Swanage, Wareham, Southampton, Portsmouth, Lyndhurst, Lymington, New Milton, Winchester, Petersfield, Andover, Gosport, Eastleigh, Havant - and we also can work as far away as Yeovil & Salisbury. If in doubt give us a call anyway - we can work farther afield on occasion.
+We are available as per the image postcodes <span style="color:#54AAB4">**[ SP, SO, DT, BH, PO ]**</span> i.e. throughout Dorset. We can also work in neighbouring regions. If in doubt give us a call anyway - if the job is large enough, we can work farther afield.
 
-  
  
 {{< /brick_image2 >}} 
 
