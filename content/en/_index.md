@@ -1,5 +1,8 @@
 ---
 title: "Reliable Service"
+draft: false
+seo:
+  description: "Your trusted house clearance service covering the entire county of Dorset. We offer efficient and affordable property removal for all types of properties. Get a free, no-obligation quote today!"
 ---
 {{< brick_title >}}                                                                                                                                                            
                                                                                                                                                                                      

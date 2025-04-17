@@ -2,6 +2,7 @@
 title: "Dorset House Clearance"
 date: 2024-02-24T21:49:50+01:00
 draft: false
+description: "Professional house clearance services throughout Dorset. We offer reliable and efficient property clearance for homes, estates, and more. Get a free quote today!"
 ---
 
 {{< brick_title >}}                                                                                                                                                            

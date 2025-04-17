@@ -16,16 +16,7 @@
     <meta name="description" content="{{ if .Params.seo.description }}{{ .Params.seo.description }}{{ else }}{{ .Summary }}{{ end }}">
 
     <!-- Canonical Tag -->
-{{ if or (eq .Site.BaseURL "https://13bddc5f.bazclearances.pages.dev/") (eq .Site.BaseURL "https://bazclearances.pages.dev/") }}
-    <!-- Redirects any URL under https://13bddc5f.bazclearances.pages.dev or https://bazclearances.pages.dev to https://bazclearance.co.uk -->
-    <link rel="canonical" href="https://bazclearance.co.uk">
-{{ else if eq .RelPermalink "/house-clearance-dorset/" }}
-    <!-- Point /house-clearance-dorset to homepage -->
-    <link rel="canonical" href="https://bazclearance.co.uk">
-{{ else }}
-    <!-- Normal canonical for all other URLs -->
-    <link rel="canonical" href="https://bazclearance.co.uk{{ .RelPermalink }}">
-{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">``
     
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Dorset House Clearance Specialists">
