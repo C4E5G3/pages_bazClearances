@@ -16,7 +16,7 @@ seo:
 Baz's Clearances offers a reliable, affordable, and fully licensed house clearance service
 for all of Dorset. We provide professional services at fair prices. We deal with everything from individual items to entire properties.
 
-![a brown sofa with items stacked on top indicating a house clearance or house removal](/uploads/illustrations/cuate/sofa1.jpg)
+![a brown sofa with items stacked on top indicating a house clearance or house removal](/uploads/illustrations/cuate/sofa3.jpg)
 
 - Five Star Service 
 - Available 7 Days A Week 
