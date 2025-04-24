@@ -67,15 +67,6 @@ We have:
 
 
 {{< /brick_image >}}
-{{< brick_cta >}}
-##  You can call us today for a quote on:  
-
-## 07793 251 677 
-**On the mobile? Just click the small RED icon** {{< contactbutton>}}  
-
-![generic mobile phone graphic](/uploads/illustrations/cuate/phone2.svg)
-
-{{< /brick_cta >}} 
 
 {{< brick_features >}}{{< /brick_features >}}    
 
@@ -86,4 +77,5 @@ We have:
 {{< brick_image >}}<iframe style="border: 16px solid #dddddd; overflow: hidden" width="370" height="222" 
 src="https://environment.data.gov.uk/public-register/waste-carriers-brokers/widget/CBDU508787" 
 title="Widget for CBDU508787"></iframe>{{< /brick_image >}}
-{{< /brick_intro >}}{{< brick_cta >}}{{< /brick_cta >}}
+{{< /brick_intro >}}
+{{< brick_cta >}}{{< /brick_cta >}}
