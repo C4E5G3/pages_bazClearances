@@ -5,33 +5,23 @@ seo:
   description: "Your trusted house clearance service covering the entire county of Dorset. We offer efficient and affordable property removal for all types of properties. Get a free, no-obligation quote today!"
 ---
 {{< brick_title >}}                                                                                                                                                            
-                                                                                                                                                                                     
   ![a generic house clearance featuring an assortment of brown cardboard packing boxes](/uploads/photos/clear1.jpg)                                                                                                                                                
-                                                                                                                                                                                     
-  # Local Dorset House Clearances                                                                                                                                                               
-                                                                                                                                                                                     
-  {{< breadcrumbs >}}                                                                                                                                                            
-                                                                                                                                                                                    
+  # Local Dorset House Clearances                                                                                                                                                             
+{{< breadcrumbs >}}                                                                                                                                                            
 {{< /brick_title >}} 
 
-{{< brick_intro >}}
-## Your Trusted Local Team
-Dorset's trusted house clearance specialists: Baz's Clearances delivers reliable, affordable, and fully licensed services. Get a free quote and experience our professional approach. Call 07793 251 677.
-{{< button "Get in touch" "/get-in-touch/" >}}
-
-![a graphic of workmen carrying boxes from a van](/uploads/illustrations/cuate/van.jpg)
-
-{{< /brick_intro >}}
 {{< brick_image2 >}}
 
 ## What we offer
+Baz's Clearances offers a reliable, affordable, and fully licensed house clearance service
+for all of Dorset. We provide professional services at fair prices. We deal with everything from individual items to entire properties.
 
 ![a brown sofa with items stacked on top indicating a house clearance or house removal](/uploads/illustrations/cuate/sofa1.jpg)
 
 - Five Star Service 
-- Fully Licensed And Insured 
 - Available 7 Days A Week 
 - Environmentally Friendly 
+- Fully Licensed And Insured 
 - Friendly well-mannered workers
 
 Our strapline is:
@@ -42,6 +32,14 @@ Our house clearing service is inclusive of all labour and waste handling costs.
 Our quotations are obviously free and entirely without commitment 
 
 {{< /brick_image2 >}}
+{{< brick_intro >}}
+## Your Trusted Local Team
+Get a free quote and experience our professional approach. We normally can come out the same day. Call us on 07793 251 677.
+{{< button "Get in touch" "/get-in-touch/" >}}
+
+![a graphic of workmen carrying boxes from a van](/uploads/illustrations/cuate/van.jpg)
+
+{{< /brick_intro >}}
 {{< brick_image >}}
 
 ## Why choose us?
