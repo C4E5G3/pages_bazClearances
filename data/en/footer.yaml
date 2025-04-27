@@ -1,5 +1,6 @@
 logo_image: /uploads/branding/hare.png
 dark_footer: true
+footer_text: Address - 92 Church Rd, Ferndown, Dorset, BH22 9EX. Site built on HugoBricks by JH Vanderschee.  
 menuitems:
   - title: Home
     link:  /
@@ -32,4 +33,3 @@ socials:
  # - title: Linkedin
  #   link: https://facebook.com/bazclearance/
  #   logo_image: /img/linkedin.svg
-    footer_text: Site built on HugoBricks 
