@@ -1,8 +1,8 @@
 ---
-title: "Reliable Service"
+title: "Need a property cleared? We promise to remove all unwanted items, and we can come out promptly to give you a no-obligation quote on any job. We are reliable, trustworthy, and very reputable."
 draft: false
 seo:
-  description: "Your trusted house clearance service covering the entire county of Dorset. We offer efficient and affordable property removal for all types of properties. Get a free, no-obligation quote today!"
+  description: "Your trusted house clearance service covering the entire county of Dorset. We offer efficient and affordable property removal for all types of properties."
 ---
 {{< brick_title >}}                                                                                                                                                            
   ![a generic house clearance featuring an assortment of brown cardboard packing boxes](/uploads/photos/clear1.jpg)                                                                                                                                                
