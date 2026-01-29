@@ -10,16 +10,14 @@ draft: false
 
 # Contact us
 
-### Get in touch for a quote and advice on any house clearance 
-{{< /brick_title >}}
-{{< brick_contact >}}
+### Get in touch for a quote and advice on any house clearance
+
+{{< /brick_title >}} {{< brick_contact >}}
 
 ## +44 7793 251 677
 
-info@bazclearance.co.uk 
-
+baz@bazclearance.co.uk
 
 {{< socialbuttons >}}
 
-{{< /brick_contact >}}
-{{< brick_map >}}{{< /brick_map >}}
+{{< /brick_contact >}} {{< brick_map >}}{{< /brick_map >}}

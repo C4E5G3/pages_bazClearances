@@ -12,21 +12,16 @@ draft: false
 
 ### We can come round at short notice and give you a no-commitment quotation
 
-{{< /brick_title >}}
-{{< brick_contact >}}
+{{< /brick_title >}} {{< brick_contact >}}
 
 ## 07793 251 677
 
-info@bazclearance.co.uk 
+baz@bazclearance.co.uk
 
-92 Church Rd,
-Ferndown, 
-BH22 9EX
+92 Church Rd, Ferndown, BH22 9EX
 
 - Weekdays 7:30-20:00 Saturdays 7:30-18:00, Sundays 11:00-1700
-- Landline 01202 896289                                         
-- Alternate number 07915019222
-{{< socialbuttons >}}
+- Landline 01202 896289
+- Alternate number 07915019222 {{< socialbuttons >}}
 
-{{< /brick_contact >}}
-{{< brick_map >}}{{< /brick_map >}}
+{{< /brick_contact >}} {{< brick_map >}}{{< /brick_map >}}
