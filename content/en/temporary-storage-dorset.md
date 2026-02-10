@@ -1,15 +1,19 @@
 ---
 title: "Temporary Storage Dorset | Short-Term Storage Between Moves"
-description: "Temporary storage in Dorset with collection & delivery. Perfect for probate, house moves, renovations. We collect, store & return your belongings. Call 07793 251677"
+draft: false
+seo:
+  description: "Temporary storage in Dorset with collection & delivery. Perfect for probate, house moves, renovations. We collect, store & return your belongings. Call 07793 251677"
 ---
 
-{{< brick_intro >}} {{< breadcrumbs >}}
+{{< brick_title >}} ![Storage containers](/uploads/photos/clear1.jpg)
 
-## Temporary Storage Solutions in Dorset
+# Temporary Storage Solutions in Dorset
 
-{{< /brick_intro >}}
+{{< breadcrumbs >}} {{< /brick_title >}}
 
-{{< brick_wide >}}
+{{< brick_image2 >}}
+
+## When You Need Safe Storage
 
 Life doesn't always go to plan. Houses sell faster than expected, renovation
 projects overrun, probate takes longer than anticipated, and elderly parents
@@ -17,10 +21,16 @@ need time to decide what fits in their new bungalow. When you need somewhere
 safe for your belongings during these transitions, traditional self-storage can
 feel like just another thing to worry about.
 
+![Storage illustration](/uploads/illustrations/cuate/sofa3.jpg)
+
 That's where our temporary storage service comes in. We don't just rent you a
 unit and leave you to it. We collect your belongings, store them securely, and
 deliver them back when you're ready. No van hire, no multiple trips, no heavy
 lifting.
+
+{{< /brick_image2 >}}
+
+{{< brick_wide >}}
 
 ## When Do You Need Temporary Storage?
 
@@ -167,8 +177,14 @@ explain exactly how we can help.
 
 ## 07793 251 677
 
-**On the mobile? Just click the small RED icon** {{< contactbutton >}}
-Alternatively: {{< button2 "Send us an email" "/contact/" >}}
-![Storage illustration](/uploads/illustrations/cuate/phone2.svg) {{< /brick_cta
+**On the mobile? Just click the small RED icon**
 
-> }}
+{{< contactbutton >}}
+
+Alternatively:
+
+{{< button2 "Send us an email" "/contact/" >}}
+
+![Storage illustration](/uploads/illustrations/cuate/phone2.svg)
+
+{{< /brick_cta >}}
