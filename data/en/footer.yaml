@@ -4,6 +4,8 @@ footer_text: Address - 92 Church Rd, Ferndown, Dorset, BH22 9EX. Site built on H
 menuitems:
   - title: Home
     link:  /
+  - title: Temporary Storage
+    link:  /temporary-storage-dorset/
   - title: Privacy Policy
     link:  /privacy-policy/
   - title: Terms And Conditions
