@@ -13,6 +13,16 @@ menuitems:
   - title: Where We Cover
     link: /house-clearance-dorset/
     items:
+      - title: Sandbanks
+        link: /house-clearance-dorset/sandbanks/
+      - title: Canford Cliffs
+        link: /house-clearance-dorset/canford-cliffs/
+      - title: Branksome Park
+        link: /house-clearance-dorset/branksome-park/
+      - title: Lilliput
+        link: /house-clearance-dorset/lilliput/
+      - title: Westbourne
+        link: /house-clearance-dorset/westbourne/
       - title: Bournemouth
         link: /house-clearance-dorset/bournemouth/
       - title: Poole
@@ -69,3 +79,4 @@ cta:
   active: true
   title: Get In Touch
   link: /contact/
+
