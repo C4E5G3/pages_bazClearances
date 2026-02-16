@@ -25,8 +25,16 @@ menuitems:
         link: /house-clearance-dorset/westbourne/
       - title: Bournemouth
         link: /house-clearance-dorset/bournemouth/
+      - title: Boscombe
+        link: /house-clearance-dorset/boscombe/
+      - title: Southbourne
+        link: /house-clearance-dorset/southbourne/
       - title: Poole
         link: /house-clearance-dorset/poole
+      - title: Hamworthy
+        link: /house-clearance-dorset/hamworthy/
+      - title: Canford Heath
+        link: /house-clearance-dorset/canford-heath/
       - title: Christchurch
         link: /house-clearance-dorset/christchurch
       - title: Ferndown
@@ -79,4 +87,3 @@ cta:
   active: true
   title: Get In Touch
   link: /contact/
-

@@ -14,6 +14,13 @@ Welcome to Baz's Clearances, your trusted partner for fast, efficient, and
 affordable house clearance services throughout Westbourne and its surrounding
 areas of Bournemouth.
 
+Westbourne is an affluent village area on the western edge of Bournemouth, known
+for its independent boutiques, Victorian arcade, thriving café culture, and
+tree-lined residential streets. From period properties to modern apartments, we
+provide professional house clearance services throughout Westbourne as part of
+our comprehensive
+[house clearance Bournemouth](/house-clearance-dorset/bournemouth/) service.
+
 {{< button "Get A Free Quote" "/get-in-touch/" >}}
 
 ## Our Westbourne House Clearance Services Include:
@@ -52,8 +59,13 @@ areas of Bournemouth.
 ## Need a House Clearance in Westbourne? Contact Us Today!
 
 Whether you own a period home, a modern apartment, or require commercial
-clearance in Westbourne, our friendly team is ready to assist you.
+clearance in Westbourne, our friendly team is ready to assist you. As part of
+our wider [Bournemouth house clearance](/house-clearance-dorset/bournemouth/)
+service, we cover all BH4 postcodes and the Westbourne village area.
 
-{{< button "Request A Free Quote" "/get-in-touch/" >}}
+We also cover neighbouring areas including
+[Boscombe](/house-clearance-dorset/boscombe/) and
+[Southbourne](/house-clearance-dorset/southbourne/).
 
-Call us now on: 07793251677 {{< /brick_wide >}}
+{{< button "Request A Free Quote" "/get-in-touch/" >}} Call us now on:
+07793251677 {{< /brick_wide >}}

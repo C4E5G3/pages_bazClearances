@@ -12,8 +12,15 @@ slug: "sandbanks"
 
 Welcome to Baz's Clearances, your trusted partner for fast, efficient, and
 affordable house clearance services throughout Sandbanks and its surrounding
-prestigious areas of Poole Harbour. {{< button "Get A Free Quote"
-"/get-in-touch/" >}}
+prestigious areas of Poole Harbour.
+
+Sandbanks is one of the world's most exclusive residential areas, a narrow
+peninsula known for its luxury waterfront properties, golden beaches, and
+millionaire's row. We provide professional house clearance services throughout
+Sandbanks as part of our comprehensive
+[house clearance Poole](/house-clearance-dorset/poole/) service.
+
+{{< button "Get A Free Quote" "/get-in-touch/" >}}
 
 ## Our Sandbanks House Clearance Services Include:
 
@@ -51,6 +58,11 @@ prestigious areas of Poole Harbour. {{< button "Get A Free Quote"
 ## Need a House Clearance in Sandbanks? Contact Us Today!
 
 Whether you own a waterfront property, a luxury estate, or require probate
-clearance in Sandbanks, our friendly team is ready to assist you. {{< button
-"Request A Free Quote" "/get-in-touch/" >}} Call us now on: 07793251677 {{<
-/brick_wide >}}
+clearance in Sandbanks, our friendly team is ready to assist you. As part of our
+wider [Poole house clearance](/house-clearance-dorset/poole/) service, we cover
+all BH13 postcodes and the Sandbanks peninsula.
+
+We also cover neighbouring areas including
+[Canford Cliffs](/house-clearance-dorset/canford-cliffs/) and
+[Lilliput](/house-clearance-dorset/lilliput/). {{< button "Request A Free Quote"
+"/get-in-touch/" >}} Call us now on: 07793251677 {{< /brick_wide >}}

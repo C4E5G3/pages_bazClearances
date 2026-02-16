@@ -14,6 +14,12 @@ Welcome to Baz's Clearances, your trusted partner for fast, efficient, and
 affordable house clearance services throughout Branksome Park and its
 surrounding areas of Poole.
 
+Branksome Park is an exclusive residential area and conservation area in Poole,
+renowned for its tree-lined avenues, substantial Edwardian and Victorian
+properties, and peaceful chines leading to sandy beaches. We provide
+professional house clearance services throughout Branksome Park as part of our
+comprehensive [house clearance Poole](/house-clearance-dorset/poole/) service.
+
 {{< button "Get A Free Quote" "/get-in-touch/" >}}
 
 ## Our Branksome Park House Clearance Services Include:
@@ -52,8 +58,13 @@ surrounding areas of Poole.
 ## Need a House Clearance in Branksome Park? Contact Us Today!
 
 Whether you own a period home, a modern property, or require probate clearance
-in Branksome Park, our friendly team is ready to assist you.
+in Branksome Park, our friendly team is ready to assist you. As part of our
+wider [Poole house clearance](/house-clearance-dorset/poole/) service, we cover
+all BH13 postcodes and the Branksome Park conservation area.
 
-{{< button "Request A Free Quote" "/get-in-touch/" >}}
+We also cover neighbouring areas including
+[Canford Cliffs](/house-clearance-dorset/canford-cliffs/) and
+[Lilliput](/house-clearance-dorset/lilliput/). {{< button "Request A Free Quote"
+"/get-in-touch/" >}}
 
 Call us now on: 07793251677 {{< /brick_wide >}}

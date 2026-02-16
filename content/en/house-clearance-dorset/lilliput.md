@@ -12,9 +12,14 @@ slug: "lilliput"
 
 Welcome to Baz's Clearances, your trusted partner for professional house
 clearance services throughout Lilliput and the surrounding waterfront areas of
-Poole Harbour. We provide efficient, careful, and discreet clearance services
-tailored to this desirable coastal community. {{< button "Get A Free Quote"
-"/get-in-touch/" >}}
+Poole Harbour.
+
+Lilliput is a picturesque waterfront village on the shores of Poole Harbour,
+known for its sailing community, Salterns Marina, narrow lanes, and charming mix
+of period and modern waterfront properties. We provide efficient, careful, and
+discreet clearance services tailored to this desirable coastal community as part
+of our comprehensive [house clearance Poole](/house-clearance-dorset/poole/)
+service. {{< button "Get A Free Quote" "/get-in-touch/" >}}
 
 ## Our Lilliput House Clearance Services Include:
 
@@ -58,7 +63,9 @@ tailored to this desirable coastal community. {{< button "Get A Free Quote"
 
 We provide house clearance services throughout Lilliput, including properties
 near Salterns Marina, along Lake Drive, and throughout the waterfront areas. We
-also serve nearby Sandbanks, Canford Cliffs, Branksome Park, and wider Poole.
+also serve nearby [Sandbanks](/house-clearance-dorset/sandbanks/),
+[Canford Cliffs](/house-clearance-dorset/canford-cliffs/),
+[Branksome Park](/house-clearance-dorset/branksome-park/), and wider Poole.
 
 ## Understanding Lilliput's Unique Properties
 
@@ -77,6 +84,9 @@ shoulders.
 ## Need a House Clearance in Lilliput? Contact Us Today!
 
 Ready to arrange your Lilliput house clearance? Contact us for a free,
-no-obligation quote. We can usually visit within 24-48 hours. {{< button
-"Request A Free Quote" "/get-in-touch/" >}} Call us now on: 07793251677 {{<
-/brick_wide >}}
+no-obligation quote. We can usually visit within 24-48 hours. As part of our
+wider [Poole house clearance](/house-clearance-dorset/poole/) service, we cover
+all BH14 postcodes and the Lilliput waterfront area.
+
+{{< button "Request A Free Quote" "/get-in-touch/" >}} Call us now on:
+07793251677 {{< /brick_wide >}}
